@@ -293,7 +293,8 @@ section h3 {
   font-size: 0.85rem;
 }
 
-
+/* Buttons */
+.register-button {
   background: linear-gradient(145deg, var(--secondary), var(--secondary-dark));
   color: var(--secondary-text);
   margin-top: 10px;
